@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Camila, tenho 24 anos e sou estudante de Análise e Desenvolvimento de Sistemas e Técnico de Informática para Internet.<br><br>Sou apaixonada por tecnologia e estou em constante evolução, desenvolvendo minhas habilidades em programação e criando projetos práticos.</p>
+<p align="left">Meu nome é Camila, tenho 24 anos e sou estudante de Análise e Desenvolvimento de Sistemas<br><br>Sou apaixonada por tecnologia e estou em constante evolução, desenvolvendo minhas habilidades em programação e criando projetos práticos.</p>
 
 ###
 
