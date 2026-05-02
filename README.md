@@ -10,8 +10,7 @@
 
 ###
 
-<h1> align="left">About Me</h1>
-<br>
+<p align="left"></p>
 
 ###
 
