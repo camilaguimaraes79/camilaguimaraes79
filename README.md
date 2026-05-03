@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Atualmente, estou em transição de carreira para a área de tecnologia, com foco em desenvolvimento de software.<br><br>Além da graduação, também possuo formação técnica em Informática para Internet pelo Senac, onde adquiri conhecimentos em desenvolvimento web e fundamentos da área.<br><br>Tenho conhecimentos em HTML, CSS, JavaScript, Python, PHP e SQL.<br><br>🚀 Busco minha primeira oportunidade na área de tecnologia.</p>
+<p align="left">Atualmente, estou em transição de carreira para a área de tecnologia, com foco em desenvolvimento de software.<br><br>Além da graduação, também curso técnico em Informática para Internet pelo Senac, onde adquiri conhecimentos em desenvolvimento web e fundamentos da área.<br><br>Tenho conhecimentos em HTML, CSS, JavaScript, Python, PHP e SQL.<br><br>🚀 Busco minha primeira oportunidade na área de tecnologia.</p>
 
 ###
 
